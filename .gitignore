@@ -1,0 +1,9 @@
+.project
+.settings
+.classpath
+target
+.DS_Store
+dependency-reduced-pom.xml
+.idea/
+boilerpipe-common/boilerpipe-common.iml
+*.iml
